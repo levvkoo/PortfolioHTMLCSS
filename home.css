@@ -1,0 +1,97 @@
+li { 
+  display: inline-block;
+  padding: 9px 20px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.tablecustom {
+  display: flex;
+  padding: 18px;
+  justify-content: flex-end;
+  background-color: #F5EFE7; 
+}
+
+.navcustom a {
+  padding: 7px 20px;
+  font-size: 32px;
+  color: black;
+  text-decoration: none;
+  font-family: 'Georgia', serif; 
+}
+
+.navcustom a:hover { 
+  text-decoration: underline;
+}
+
+
+.meimage {
+    float: right;
+  width: 400px;
+  height: auto; 
+}
+
+
+.profile-container {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.info {
+  margin-right: 201px;
+  
+}
+
+.info h1 {
+  font-size: 80px;
+  margin-bottom: 5px;
+  margin-top: 130px;
+  
+}
+
+.info h3 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #FFFFFF;
+  margin-left: 20px;
+  margin-top: -10px;
+}
+
+.info h6 {
+  letter-spacing: 1px;
+  text-align: left;
+  color: #FFFFFF;
+  margin-top: 30px;
+  margin-left: -30px;
+}
+
+.bg-brown {
+  background-color: #4E342E;
+  margin-bottom: 15px;
+}
+
+.text-custom {
+  color: #FFFFFF;
+}
+
+.icons {
+  text-decoration: none;
+  color: white;
+  margin-top: 80px;
+  margin-left: 180px;
+}
+
+.icons ion-icon {
+  margin-left: 40px;
+  color: white;
+  margin-right: 25px;
+  font-size: 60px;
+}
+
+.icons ion-icon:hover {
+  color: #BCAAA4;
+}
+
+.fontmain {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
